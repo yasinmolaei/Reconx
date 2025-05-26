@@ -83,7 +83,7 @@ If these files are not found or are empty when "Heavy" mode is selected, the too
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yasinmolaei/Reconx.git/issues)
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yasinmolaei/Reconx/issues)
 
 ## License
 
